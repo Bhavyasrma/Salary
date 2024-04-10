@@ -2,7 +2,7 @@
 
 This project is related to generating the salary of an employee by calculating it's incentive based on it work percentage around to different categories based on different bucket.
 
-## **POS**
+## **Procedure**
 ###  for reading password protected file<br>
 pip install xlwings<br>
 import xlwings as xw
@@ -12,9 +12,8 @@ pip install virtualenv
 
 ### creating virtual environment<br>
 virtualenv f_venv (f_env name of virt env)
-<br>
 cd .\f_venv\
-<br>
+
 ### activating venv<br>
 Scripts\activate
 
