@@ -21,5 +21,5 @@ Scripts\activate
  pip install -r requirments.txt  
 
 ### Execute
-python <filename>
+python filename
 
