@@ -11,7 +11,7 @@ import xlwings as xw
 pip install virtualenv
 
 ### creating virtual environment<br>
-virtualenv f_venv (f_env name of virt env)
+virtualenv f_venv (f_env name of virt env)<br>
 cd .\f_venv\
 
 ### activating venv<br>
@@ -19,4 +19,7 @@ Scripts\activate
 
 ### loading requirement files<br>
  pip install -r requirments.txt  
+
+### Execute
+python <filename>
 
