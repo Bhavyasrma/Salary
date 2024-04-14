@@ -3,7 +3,7 @@
 This project is related to generating the salary of an employee by calculating it's incentive based on it work percentage around to different categories based on different bucket.
 
 ## **Procedure**
-###  for reading password protected file<br>
+###  for reading xlsx password protected file<br>
 pip install xlwings<br>
 import xlwings as xw
 
