@@ -21,7 +21,7 @@ Scripts\activate
  pip install -r requirments.txt  
 
 ### Execute
-python main.py filename
-Here, filename refers to the salary sheet which we give in the program.
+python main.py filename<br>
+Here, filename refers to the salary sheet which we give in the program.<br>
 A demo for the same is given in the src named 'SALARY_NEW'.
 
